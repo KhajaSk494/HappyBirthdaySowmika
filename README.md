@@ -1,6 +1,6 @@
 
 
-# MoToons 3D Image Slider Banner
+# KhajaUI 3D Image Slider Banner
 
 This project demonstrates how to create a 3D image slider effect using CSS. The banner section is part of the MoToons website, a kids' cartoon channel primarily focused on fairy tales. The 3D image slider gives a dynamic and interactive experience by rotating images in a circular carousel.
 
@@ -21,22 +21,6 @@ This project is designed to create a visually appealing 3D image slider effect u
 - **HTML5**: For structuring the webpage.
 - **CSS3**: For styling the webpage and creating the 3D effects.
 - **Web Fonts**: For custom typography.
-
-## Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/IT21826740/MoToons.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd MoToons
-   ```
-
-3. Open the `index.html` file in your preferred web browser to see the 3D image slider in action.
 
 ## Usage
 
